@@ -22,6 +22,7 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
+  "homepage": "https://xsea29.github.io/Travel-List",
   "eslintConfig": {
     "extends": [
       "react-app",
